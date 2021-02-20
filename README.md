@@ -3,9 +3,16 @@
 
 #### 기존 MVC로 작업한 Whyn Web을 Spring 구조로 변경 하였습니다.
 
+이 프로젝트에서는 admin 페이지가 주된 페이지 였기때문에 기존에 있던 
+
 ---------
+
+
 
 ## 시현 영상
 [<img width="1787" alt="whyn" src="https://user-images.githubusercontent.com/70096347/108584855-e84be800-7387-11eb-8321-4801f96ca8a6.png">](https://www.youtube.com/watch?v=APA3r63zcQU&feature=youtu.be)
 
 이미지 클릭시 해당영상으로 갑니다.
+
+
+
