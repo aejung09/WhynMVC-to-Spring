@@ -1,4 +1,4 @@
-# Wyne_Spring
+# WHYN_Spring
 
 
 #### 기존 MVC로 작업한 Whyn Web을 Spring 구조로 변경 하였습니다.
